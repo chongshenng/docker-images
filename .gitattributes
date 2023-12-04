@@ -1,0 +1,2 @@
+influxdb_2.6.tar.gz filter=lfs diff=lfs merge=lfs -text
+telegraf_1.28.5.tar.gz filter=lfs diff=lfs merge=lfs -text
